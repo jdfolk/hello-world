@@ -5,3 +5,5 @@ and now my first edit and commit on git hub.
 2nd run at the tutorial
 
 playing a year later
+
+edit again to look for version details
